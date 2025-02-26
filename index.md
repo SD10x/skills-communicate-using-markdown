@@ -11,3 +11,6 @@ Wow it's a very cute Yaktocat
 let add a b =
   a+b
 ```
+- [x] tache 1
+- [ ] tache 2
+- [ ] tache 3
