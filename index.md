@@ -4,3 +4,6 @@ I make a tittle
 I make an other tittle
 ### Tittle 3
 I think I need more tittle so I add a tittle
+
+![Image of Yaktocat|200](https://octodex.github.com/images/yaktocat.png)
+Wow it's a very cute Yaktocat
